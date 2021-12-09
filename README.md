@@ -2,7 +2,7 @@
 I had the idea of building a simple circuit that can detect its Orientation using an MPU6050 gyroscope and used that input data on a Processing app to simulate the gun's aim point and added some randomly generated squares to shoot at!
 
 Circuit Diagram:
-![Circuit Diagram](./!Circuit-Diagram.png)
+![Circuit Diagram](https://github.com/karimjawhar5/Ard-VirtualGun/blob/main/Circuit%20Diagram.png?raw=true)
 
 Goal for V1.2.0:(coming soon)
 - Add reload functionality
