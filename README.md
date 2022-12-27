@@ -1,4 +1,4 @@
-## Ard-VirtualGun
+## Virtual-Gun
 This Virtual gun consists of an arduino based circuit that can detect its orientation using an MPU6050 gyroscope/ accelerometer and projects that data on a Processing app to simulate the gun's aim point, in addition to randomly generated targets to shoot at!
 
 #### Components:
